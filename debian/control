@@ -1,0 +1,16 @@
+Source: python3-mcpy
+Section: Python
+Priority: optional
+Maintainer: Salvador E. Tropea <stropea@inti.gob.ar>
+Build-Depends: debhelper (>=11~), dh-python, python3-all
+Standards-Version: 4.1.4
+Homepage: https://github.com/delapuente/mcpy
+X-Python3-Version: >= 3.2
+
+Package: python3-mcpy
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${python3:Depends}
+Description: Python syntatic macros
+ A small and compact Python 3 library to enable
+ syntactic macros at importing time.

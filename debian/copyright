@@ -1,0 +1,20 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: mcpy
+Source: <https://github.com/delapuente/mcpy>
+#
+# Please double check copyright with the licensecheck(1) command.
+
+Files:     README.md
+           demo/demo.py
+           demo/demo_macros.py
+           demo/run.py
+           mcpy/__init__.py
+           mcpy/activate.py
+           mcpy/core.py
+           mcpy/importhooks.py
+           mcpy/unparse.py
+           mcpy/visitors.py
+           setup.cfg
+           setup.py
+Copyright: 2015 Salvador de la Puente González
+License:   MIT
