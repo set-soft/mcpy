@@ -5,7 +5,7 @@ from distutils.core import setup
 setup(
     name = "mcpy",
     packages = ["mcpy"],
-    version = "2.0.0",
+    version = "2.0.1",
     description = "A small and compact Python 3 library to enable syntactic macros at importing time",
     author = "Salvador de la Puente González",
     author_email = "salva@unoyunodiez.com",
