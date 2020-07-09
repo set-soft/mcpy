@@ -1,3 +1,9 @@
+python3-mcpy (2.0.2-1) stable; urgency=medium
+
+  * added activate()
+
+ -- Salvador E. Tropea <stropea@inti.gob.ar>  Thu, 09 Jul 2020 13:06:15 -0300
+
 python3-mcpy (2.0.1-1) stable; urgency=medium
 
   * added de_activate()
